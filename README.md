@@ -2,10 +2,7 @@
 
 A production-grade, highly available web application architecture on AWS. EC2 instances run in private subnets across two Availability Zones behind an Application Load Balancer, with CloudFront for static asset caching and a Multi-AZ RDS database backend.
 
-![Architecture diagram](docs/architecture.png)
-
-Save the architecture diagram as `docs/architecture.png` so the image above renders.
-
+<img width="920" height="817" alt="image" src="https://github.com/user-attachments/assets/95912877-c216-4899-a73e-3dfed3f4efe1" />
 
 ---
 
